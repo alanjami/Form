@@ -1,2 +1,2 @@
 # Form
-this is a practice project! 
+this is a training project! 
